@@ -1,5 +1,6 @@
 //JUAN CARLOS CONDE RAMÍREZ
 //OBJETOS 3D - ILUMINACION
+//Comentario por Arturo
 #include <stdio.h>
 #include <GL/glut.h>
 #include <GL/gl.h>
